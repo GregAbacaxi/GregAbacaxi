@@ -1,4 +1,35 @@
-### Hi there 👋
+### 👋 **Greetings**
+- My name is Gregor
+- I speak Portuguese and English
+- I've existed for approximately 6500 days
+- I like technology and I'm looking forward to improve my knowledge and skills in this area
+
+### ⚙ **I'm currently doing...**
+Not much, but I try learning something new every day
+
+### 💾 **I know how to use...**
+###### _In alphabetical order_
+> Arduino
+
+> Css
+
+> Figma
+
+> HTML
+
+> Java
+
+> Javascript
+
+> MySQL
+
+> Node.js
+
+> Python
+
+### 📫 **Would like to message me?**
+Feel free to send me an email (emaildogregor@gmail.com)
+
 
 <!--
 **GregorUmbelino/GregorUmbelino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
