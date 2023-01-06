@@ -1,11 +1,13 @@
 ### 👋 **Greetings**
 - My name is Gregor
 - I speak Portuguese and English
-- I've existed for approximately 6500 days
+- I've existed for approximately 6800 days
 - I like technology and I'm looking forward to improve my knowledge and skills in this area
 
 ### ⚙ **I'm currently doing...**
-Not much, but I try learning something new every day
+Trying to finish college
+1st year
+1st semester
 
 ### 💾 **I know how to use...**
 ###### _In alphabetical order_
