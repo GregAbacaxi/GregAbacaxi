@@ -6,12 +6,14 @@
 
 ### ⚙ **I'm currently doing...**
 Trying to finish college
- 1st year
- 2st semester
+  1st year
+  2st semester
 
 ### 💾 **I know how to use...**
 ###### _In alphabetical order_
 > Arduino
+
+> C
 
 > Css
 
