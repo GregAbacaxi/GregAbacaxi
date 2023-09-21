@@ -1,21 +1,23 @@
 ### 👋 **Greetings**
 - My name is Gregor
 - I speak Portuguese and English
-- I've existed for approximately 6900 days
+- I've existed for approximately 7000 days
 - I like technology and I'm looking forward to improve my knowledge and skills in this area
 
 ### ⚙ **I'm currently doing...**
 Trying to finish college (Informatics Engineering)
 
- 1st year
+ 2nd year
 
- 2nd semester
+ 1st semester
 
 ### 💾 **I know how to use...**
 ###### _In alphabetical order_
 > Arduino
 
 > C
+
+> C++
 
 > Css
 
@@ -33,12 +35,6 @@ Trying to finish college (Informatics Engineering)
 
 > Python
 
-### 📫 **Would like to message me?**
-Feel free to send me an email (emaildogregor@gmail.com)
-
-Maybe it will take a while, but I will try to reply ASAP
-
-
 <!--
 **GregorUmbelino/GregorUmbelino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -52,4 +48,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### 📫 **Would like to message me?**
+Feel free to send me an email (emaildogregor@gmail.com)
+
+Maybe it will take a while, but I will try to reply ASAP
 -->
