@@ -1,15 +1,27 @@
 ### 👋 **Greetings**
 - My name is Gregor
 - I speak Portuguese and English
-- I've existed for approximately 7000 days
-- I like technology and I'm looking forward to improve my knowledge and skills in this area
+- I've existed for approximately 7150 days
+- I like most things computer-related (Studying to get better at those)
 
 ### ⚙ **I'm currently doing...**
 Trying to finish college (Informatics Engineering)
 
  2nd year
 
- 1st semester
+ 2nd semester
+
+ Current Subjects :
+
+ > Software Engineering
+
+ > Databases II
+
+ > Multiplataform Development
+
+ > Computer Graphics
+
+ > Computer Networks II
 
 ### 💾 **I know how to use...**
 ###### _In alphabetical order_
@@ -33,7 +45,18 @@ Trying to finish college (Informatics Engineering)
 
 > Node.js
 
+> PHP
+
 > Python
+
+### ✨ **My favorite repository...**
+A variation of the "Conway's Game of Life", made with Pedro Decolin's collaboration and André Bortoli's help.
+
+I am very proud of it (mostly the file system), and I really enjoy working with the C language.
+
+It was a project for the Operating Systems subject at IPB, proposed by the professor Arnaldo Pereira.
+
+(Not avaliable on GitHub yet...)
 
 <!--
 **GregorUmbelino/GregorUmbelino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
