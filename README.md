@@ -5,7 +5,7 @@
 - I like most things computer-related (Studying to get better at those)
 
 ### ⚙ **I'm currently doing...**
-Trying to finish college (Informatics Engineering)
+Trying to get a degree (Informatics Engineering)
 
  2nd year
 
