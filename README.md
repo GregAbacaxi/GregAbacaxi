@@ -56,7 +56,7 @@ I am very proud of it (mostly the file system), and I really enjoy working with 
 
 It was a project for the Operating Systems subject at IPB, proposed by the professor Arnaldo Pereira.
 
-(Not avaliable on GitHub yet...)
+You can check it by clicking [HERE](https://github.com/GregAbacaxi/LifeGame2024 "hope you like it").
 
 <!--
 **GregorUmbelino/GregorUmbelino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
