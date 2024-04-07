@@ -31,7 +31,7 @@ Trying to get a degree (Informatics Engineering)
 
 > C++
 
-> Css
+> CSS
 
 > Figma
 
@@ -39,13 +39,9 @@ Trying to get a degree (Informatics Engineering)
 
 > Java
 
-> Javascript
+> JavaScript
 
 > MySQL
-
-> Node.js
-
-> PHP
 
 > Python
 
