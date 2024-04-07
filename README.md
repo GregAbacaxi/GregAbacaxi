@@ -1,7 +1,7 @@
 ### 👋 **Greetings**
 - My name is Gregor
 - I speak Portuguese and English
-- I've existed for approximately 7150 days
+- I've existed for approximately 7200 days
 - I like most things computer-related (Studying to get better at those)
 
 ### ⚙ **I'm currently doing...**
