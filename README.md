@@ -1,27 +1,31 @@
 ### 👋 **Greetings**
 - My name is Gregor
 - I speak Portuguese and English
-- I've existed for approximately 7200 days
+- I've existed for approximately 7400 days
 - I like most things computer-related (Studying to get better at those)
 
 ### ⚙ **I'm currently doing...**
 Trying to get a degree (Informatics Engineering)
 
- 2nd year
+ 3nd year (the last one)
 
- 2nd semester
+ 1nd semester
 
  Current Subjects :
 
- > Software Engineering
+ > App Development
 
- > Databases II
+ > Network Systems Management
 
- > Multiplataform Development
+ > Artificial Intelligence 
 
- > Computer Graphics
+ > Industrial Communications
 
- > Computer Networks II
+On top of that :
+
+I am looking for a project to finish the degree
+(hopefully i'll have updates soon...
+Stay tuned)
 
 ### 💾 **I know how to use...**
 ###### _In alphabetical order_
@@ -41,9 +45,13 @@ Trying to get a degree (Informatics Engineering)
 
 > JavaScript
 
+> MongoDB
+
 > MySQL
 
 > Python
+
+> React Native
 
 ### ✨ **My favorite repository...**
 A variation of the "Conway's Game of Life", made with Pedro Decolin's collaboration and André Bortoli's help.
