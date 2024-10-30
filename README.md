@@ -19,8 +19,6 @@ Trying to get a degree (Informatics Engineering)
 
  > Artificial Intelligence 
 
- > Industrial Communications
-
 On top of that :
 
 I am looking for a project to finish the degree
