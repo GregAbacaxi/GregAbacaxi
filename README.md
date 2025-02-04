@@ -1,55 +1,27 @@
 ### 👋 **Greetings**
 - My name is Gregor
 - I speak Portuguese and English
-- I've existed for approximately 7400 days
+- I've existed for approximately 7500 days
 - I like most things computer-related (Studying to get better at those)
 
 ### ⚙ **I'm currently doing...**
 Trying to get a degree (Informatics Engineering)
 
- 3nd year (the last one)
-
- 1nd semester
+ Last Semester
 
  Current Subjects :
 
- > App Development
+ > Basic Cloud Computing with AWS
 
- > Network Systems Management
+ > Cybersecurity
 
- > Artificial Intelligence 
+ > Distributed Systems
+
+ > Internet of Things
 
 On top of that :
 
-I am looking for a project to finish the degree
-(hopefully i'll have updates soon...
-Stay tuned)
-
-### 💾 **I know how to use...**
-###### _In alphabetical order_
-> Arduino
-
-> C
-
-> C++
-
-> CSS
-
-> Figma
-
-> HTML
-
-> Java
-
-> JavaScript
-
-> MongoDB
-
-> MySQL
-
-> Python
-
-> React Native
+I've got a project, it's about Distributed File Systems. More updates on that later.
 
 ### ✨ **My favorite repository...**
 A variation of the "Conway's Game of Life", made with Pedro Decolin's collaboration and André Bortoli's help.
