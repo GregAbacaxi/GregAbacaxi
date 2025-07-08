@@ -1,27 +1,14 @@
 ### 👋 **Greetings**
 - My name is Gregor
 - I speak Portuguese and English
-- I've existed for approximately 7500 days
+- I've existed for approximately 7600 days
 - I like most things computer-related (Studying to get better at those)
 
 ### ⚙ **I'm currently doing...**
 Trying to get a degree (Informatics Engineering)
 
- Last Semester
-
- Current Subjects :
-
- > Basic Cloud Computing with AWS
-
- > Cybersecurity
-
- > Distributed Systems
-
- > Internet of Things
-
-On top of that :
-
-I've got a project, it's about Distributed File Systems. More updates on that later.
+It's my Last Semester.
+I've got a project, I need it to finish my degre. it's about Distributed File Systems. you can catch a glimpse of it [HERE](https://github.com/GregAbacaxi/StreamlitProjeto "graphs!")
 
 ### ✨ **My favorite repository...**
 A variation of the "Conway's Game of Life", made with Pedro Decolin's collaboration and André Bortoli's help.
