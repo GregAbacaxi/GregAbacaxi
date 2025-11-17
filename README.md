@@ -9,10 +9,15 @@ Trying to get a Master's degree (Informatics)
 
 It's my first semester.
 Curent Subjects:
+
 > Software Requirements
+
 > Advanced Interaction Systems
+
 > Data Engineering
+
 > Intelligent Systems
+
 > Compliance and Operations in Cybersecurity
 
 ### ✨ **My favorite repository...**
