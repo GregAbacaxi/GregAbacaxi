@@ -8,7 +8,7 @@
 Trying to get a Master's degree (Informatics)
 
 It's my first semester.
-Curent Subjects:
+Current Subjects:
 
 > Software Requirements
 
