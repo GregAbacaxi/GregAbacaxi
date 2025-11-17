@@ -29,6 +29,13 @@ It was a project for the Operating Systems subject at IPB, proposed by the profe
 
 You can check it by clicking [HERE](https://github.com/GregAbacaxi/LifeGame2024 "hope you like it").
 
+### 🔨 **Previous work...**
+My [Final Project](https://github.com/GregAbacaxi/Projeto-Final-IPB) for the Informatics Engineering degree.
+
+Made in collaboration with Pedro Decolin and with the Prof. Dr. José Rufino's guidance.
+
+Keywords being: File Systems, HPC, Performance, Scalability.
+
 <!--
 **GregorUmbelino/GregorUmbelino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
