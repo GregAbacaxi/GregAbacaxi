@@ -1,24 +1,29 @@
 ### 👋 **Greetings**
 - My name is Gregor
 - I speak Portuguese and English
-- I've existed for approximately 7800 days
+- I am learning German on Duolingo
+- I've existed for approximately 7900 days
 - I like most things computer-related (Studying to get better at those)
 
 ### ⚙ **I'm currently doing...**
-Trying to get a Master's degree (Informatics)
+Doing research.  
+I am a research fellow at the Research Centre in Digitalization and Intelligent Robotics (CeDRI). 
 
-It's my first semester.
+Contributing to the CarbonTech project.
+
+Trying to get a Master's degree (Informatics), it's my second semester.
+
 Current Subjects:
 
-> Software Requirements
+> Robotics
 
-> Advanced Interaction Systems
+> Systems Development Laboratory
 
-> Data Engineering
+> Intelligent Systems Laboratory
 
-> Intelligent Systems
+> Mobile Systems
 
-> Compliance and Operations in Cybersecurity
+> Internet of Things
 
 ### ✨ **My favorite repository...**
 A variation of the "Conway's Game of Life", made with Pedro Decolin's collaboration and André Bortoli's help.
